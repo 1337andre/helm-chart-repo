@@ -3,9 +3,9 @@ entries:
   gogs:
   - apiVersion: v1
     appVersion: 0.11.86
-    created: "2019-12-06T06:59:30.431195+01:00"
+    created: "2019-12-06T07:33:34.286332+01:00"
     description: 'Gogs: Go Git Service'
-    digest: f4a6ab31a7ca5c9268e2d939a3771fbd1b7a2b7a288b66455fb8e05792a1f288
+    digest: b0960dfc0ce309c27f3267036a5a3039d33806653c16cc5ee7e02bce62becffb
     home: https://gogs.io/
     icon: https://gogs.io/img/favicon.ico
     keywords:
@@ -17,4 +17,4 @@ entries:
     urls:
     - gogs-0.7.11.tgz
     version: 0.7.11
-generated: "2019-12-06T06:59:30.428487+01:00"
+generated: "2019-12-06T07:33:34.277192+01:00"
